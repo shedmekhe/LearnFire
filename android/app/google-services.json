@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345671213528",
+    "project_id": "flash-chat-45155",
+    "storage_bucket": "flash-chat-45155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345671213528:android:8610b9f4f6f9e98a4ed2ad",
+        "android_client_info": {
+          "package_name": "com.mayuresh.mine_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345671213528-sa5rpqqnot4gsjdt6fpkaagrocrdvch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8obzn1BEGcTf5BZuyli5FoSOSdvew3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345671213528-sa5rpqqnot4gsjdt6fpkaagrocrdvch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
